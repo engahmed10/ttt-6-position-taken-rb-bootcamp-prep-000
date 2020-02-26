@@ -1,6 +1,6 @@
 # code your #position_taken? method here!
-def position_taken(board, index)
-   if board[index] = " "
+def position_taken(arr, ind)
+   if arr[ind] = " "
      false
    end
 end
